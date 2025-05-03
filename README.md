@@ -49,13 +49,13 @@ You can use any labeled social media sentiment dataset. A good example is the Tw
 
 - **Libraries:**
 
-  - pandas, numpy
+  - **pandas, numpy**
 
-  - scikit-learn
+  - **scikit-learn**
 
-  - nltk
+  - **nltk**
 
-  -seaborn, matplotlib
+  - **seaborn, matplotlib**
 
 - **Model :** Logistic Regression (can extend to SVM or LSTM)
 
@@ -63,33 +63,35 @@ You can use any labeled social media sentiment dataset. A good example is the Tw
 
 ## 🔁 Workflow
 
-1. Data Collection
+**1. Data Collection**
 
-2. Data Cleaning
+**2. Data Cleaning**
 
-3. Exploratory Data Analysis
+**3. Exploratory Data Analysis**
 
-4. Feature Engineering
+**4. Feature Engineering**
 
-5. Model Building
+**5. Model Building**
 
-6. Evaluation & Visualization
+**6. Evaluation & Visualization**
 
 
 ## 💾 Installation
 
 **1. Clone the repository:**
 
-bash```
+```bash
 git clone https://github.com/yourusername/sentiment-analysis-emotions.git
-cd sentiment-analysis-emotions```
+cd sentiment-analysis-emotions
+```
 
 <br/>
 
 **2. Install dependencies:**
 
-bash```
-pip install -r requirements.txt```
+```bash
+pip install -r requirements.txt
+```
 
 **3. Download or place your dataset as `social_media_sentiment.csv` in the project root.**
 
@@ -97,14 +99,16 @@ pip install -r requirements.txt```
 
 **Run the sentiment analysis program:**
 
-bash```
-python sentiment_analysis.py```
+```bash
+python sentiment_analysis.py
+```
 <br/>
 
 **Or open the notebook:**
 
-bash```
-jupyter notebook Sentiment_Analysis.ipynb```
+```bash
+jupyter notebook Sentiment_Analysis.ipynb
+```
 <br/>
 
 ## 📈 Results
